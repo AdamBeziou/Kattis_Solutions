@@ -29,4 +29,6 @@ int main() {
 
         cout << caseNumber << " " << s1 << " " << s2 << " " << s3 << endl;
     }
+    
+    return 0;
 }
